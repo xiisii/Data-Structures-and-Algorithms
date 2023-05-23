@@ -1,0 +1,10 @@
+8
+~~~ SẢN PHẨM ~~~
+Cafe đen     15k
+Cafe sữa đá  17k
+Bạc sĩu      18k
+Cam vắt      15K
+Trà đào      18k
+Trà chanh    15K
+Sữa chua đá  18k
+

@@ -1,0 +1,14 @@
+13
+Cappuchino : 1
+Americano : 0
+Black Coffee : 0
+White Coffee : 1
+Peach Tea : 0
+BlueBerry : 0
+Milk Tea : 0
+LipTon ( Ice ) : 0
+Orange Jucie : 1
+Watermelon Jucie : 0
+StrawBerry Juice : 0
+Grape Juice : 0
+Tổng tiền : 35
